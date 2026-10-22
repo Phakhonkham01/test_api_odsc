@@ -1,0 +1,7 @@
+node_modules
+dist
+
+# Partner credentials — server-side only, never committed
+.env
+.env.*
+!.env.example
